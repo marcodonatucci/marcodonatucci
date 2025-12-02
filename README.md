@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning agentic AI and mcp protocol</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning agentic AI with langchain and langraph and mcp protocol</p>
 
 ###
 
